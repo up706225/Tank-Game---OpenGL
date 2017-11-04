@@ -1,0 +1,21 @@
+﻿  Collision.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+f:\to keep\uni\port\tank game - opengl\source\main.cpp(170): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  UpdateGame.cpp
+f:\to keep\uni\port\tank game - opengl\source\updategame.cpp(47): warning C4804: '>': unsafe use of type 'bool' in operation
+f:\to keep\uni\port\tank game - opengl\source\updategame.cpp(245): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+f:\to keep\uni\port\tank game - opengl\source\updategame.cpp(246): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+f:\to keep\uni\port\tank game - opengl\source\updategame.cpp(344): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\to keep\uni\port\tank game - opengl\source\updategame.cpp(345): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\to keep\uni\port\tank game - opengl\source\updategame.cpp(374): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+f:\to keep\uni\port\tank game - opengl\source\updategame.cpp(390): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  Player.cpp
+f:\to keep\uni\port\tank game - opengl\source\player.cpp(21): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  MyMath.cpp
+  GameInfo.cpp
+  Draw.cpp
+  Generating Code...
+  Tank Game - OpenGL.vcxproj -> F:\To Keep\Uni\port\Tank Game - OpenGL\Debug\Tank Game - OpenGL.exe
+  Tank Game - OpenGL.vcxproj -> F:\To Keep\Uni\port\Tank Game - OpenGL\Debug\Tank Game - OpenGL.pdb (Partial PDB)
